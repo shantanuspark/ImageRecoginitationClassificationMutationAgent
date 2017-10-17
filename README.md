@@ -32,13 +32,17 @@ Below is the output of each section:
 Each level in hierarchal clustering depicts a merging between two clusters. The levels at the top do not contain pure clusters, they have one cluster with majority of images while other clusters with single image. The levels on at the bottom, on the other hand, has pure clusters. They have grouping of small images, like all headshots with light backgrounds grouped together or all landscapes with mountains(dark color) or landscapes with water bodies(blue color) grouped together.
  <img src="https://github.com/shantanuspark/ImageRecoginitationClassificationMutationAgent/blob/master/outputImages/kmeans.png">
 Figure 3. Overview of the page with all levels closed
- 
+
+
+
 <img src="https://github.com/shantanuspark/ImageRecoginitationClassificationMutationAgent/blob/master/outputImages/hier2.png">
 Figure 4. Expanded Level 18  Cluster 2
 
+
+
 5.	Hierarchal Clustering for flags data
 Output will be same as the above html, again the lower levels have more purer clusters
-<img src="https://github.com/shantanuspark/ImageRecoginitationClassificationMutationAgent/blob/master/outputImages/hier3.png">
+<img src="https://github.com/shantanuspark/ImageRecoginitationClassificationMutationAgent/blob/master/outputImages/hier 3.png">
 
 6.	Evolve one image to other using genetic algorithm
 The output of this is as below:
